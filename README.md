@@ -1,4 +1,18 @@
+# Netflix Mobile App
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+## 📱 Overview
+This is a **Netflix Clone** mobile application built using **React Native CLI** and **JavaScript**. The app allows users to sign in, sign up, browse trending movies and TV shows, view detailed information about them, search for movies, TV shows, and actors, check profile info, view search history with details, and log out.
+
+## ✨ Features
+- 🔐 **Authentication**: Sign in and Sign up with user credentials.
+- 🎬 **Trending Movies & TV Shows**: Browse the latest trending content.
+- 📌 **Detailed Information**: View detailed descriptions, cast, and more for each movie/TV show.
+- 🔍 **Search Functionality**: Search for movies, TV shows, and actors.
+- 👤 **User Profile**: View user profile details.
+- 📜 **Search History**: See past searches and detailed history.
+- 🚪 **Logout**: Securely log out from the app.
 
 # Getting Started
 
@@ -66,7 +80,7 @@ This is one way to run your app — you can also build it directly from Android 
 
 Now that you have successfully run the app, let's make changes!
 
-Open `App.tsx` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
+Open `App.tsx` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
 
 When you want to forcefully reload, for example to reset the state of your app, you can perform a full reload:
 
@@ -95,3 +109,16 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+## 📸 Screenshots
+(Add screenshots of your app here)
+
+## 📜 License
+This project is **open-source** and available under the [MIT License](LICENSE).
+
+## 🤝 Contributing
+Feel free to submit issues, feature requests, or pull requests to improve the app!
+
+---
+**Developed by Səid**
+
